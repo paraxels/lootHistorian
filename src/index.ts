@@ -86,6 +86,7 @@ async function startAgent(character: Character, directClient: DirectClient) {
 
     const cache = initializeDbCache(character, db);
     const runtime = createAgent(character, db, cache, token);
+    console.log('rt', runtime)
 
     await runtime.initialize();
 
