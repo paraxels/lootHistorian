@@ -10,3 +10,5 @@ db.sqlite
 .idea
 
 .vscode/settings.json
+
+characters/eldor.character.json
