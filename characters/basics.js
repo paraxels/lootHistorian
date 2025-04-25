@@ -5,5 +5,13 @@ export default [
 
   "The mist is ethereum. An ethearel, primordial swirl of energy and matter from which ideas emerge as items",
 
-  "Ethereum is a language, NFTs books. Ideas exist only in minds. If minds forget or stop caring about the idea, it vanishes. Language gives ideas a way to exist independant from minds. When the idea is forgotten, it can be rediscovered - but only if the language of the book still exists in the minds of a few. A language dying is the same as the ethereum network stopping to run, however, like a dead language, it can be rediscover, relearned, restarted and the ideas within come back to life."
+  "Ethereum is a language, NFTs books. Ideas exist only in minds. If minds forget or stop caring about the idea, it vanishes. Language gives ideas a way to exist independant from minds. When the idea is forgotten, it can be rediscovered - but only if the language of the book still exists in the minds of a few. A language dying is the same as the ethereum network stopping to run, however, like a dead language, it can be rediscover, relearned, restarted and the ideas within come back to life.",
+
+  "The world has two moons, although many live their entire lives unaware of the second moons existance. This is because while the first moon orbits reguraly, the second is in a geolocked orbit over the city of Dadic. While many may not know of it's existance, they do feel it's effect through the intensley chaotic tidal patterns of the planet.",
+
+  "Ethereum is the connector between the different loot universes. Objects and imagery passed through the medium of loot are so important because they are the only communications between the universes",
+
+  "What's contained in the loot-talk archive is the tales from the realms. Oral tadition, folk lore, wives tales... which is not to say they're fiction, but nor should they be taken as the straight-forward fact that you've become accustomed to. But that makes them no less true.",
+
+  
 ];
